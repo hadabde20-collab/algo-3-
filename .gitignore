@@ -1,0 +1,8 @@
+sorting
+test_sorting
+*.o
+*.exe
+*.out
+__pycache__/
+.venv/
+.vscode/
